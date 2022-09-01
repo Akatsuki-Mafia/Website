@@ -1,0 +1,12 @@
+body {
+    background-color:rgb(19, 19, 19);
+    font-family: 'Montserrat', sans-serif;
+    margin: 3%;
+}
+body a {
+    color: blue;
+    text-underline-position: above;
+}
+body a:hover {
+    color: blueviolet;
+}
